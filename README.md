@@ -16,7 +16,7 @@ Extremely simple project just for reviewing machine learning basics and fun!
 
 ## Results
 
-![Results](Results.png)
+![Result](Result.png)
 
 ## Technologies Used
 - Python
