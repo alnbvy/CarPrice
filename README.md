@@ -14,6 +14,10 @@ Extremely simple project just for reviewing machine learning basics and fun!
 - The models are very simple: 1) linear regression, polynomial fit and Ridge
 - The project contains 5 steps: 1) introduction 2) data wrangling 3) exploratory data analysis 4) model development and 4) Refinement
 
+## Results
+
+![Results](Results.png)
+
 ## Technologies Used
 - Python
 - Scikit learn
